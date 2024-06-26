@@ -13,7 +13,7 @@ function Footer() {
               <div className="mb-2">
                 {/* Logo */}
                 <Link to="/" className="inline-block" aria-label="Cruip">
-                  <img className="logo-ctn" src="/src/images/logo.jpg"></img>
+                  <img className="logo-ctn" src="https://i.postimg.cc/tgc88SZT/z5577267921399-5cd795b40d6025c76665e79c2ef42f7b.jpg"></img>
                   {/* <svg
                     className="w-8 h-8 fill-current text-orange-600"
                     viewBox="0 0 32 32"
