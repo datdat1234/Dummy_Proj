@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 import Header from '../partials/Header';
 import PageIllustration from '../partials/PageIllustration';
-import Banner from '../partials/Banner';
+// import Banner from '../partials/Banner';
 
 function ResetPassword() {
   return (
@@ -74,7 +74,7 @@ function ResetPassword() {
         </section>
       </main>
 
-      <Banner />
+      {/* <Banner /> */}
     </div>
   );
 }
