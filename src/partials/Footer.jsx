@@ -23,11 +23,11 @@ function Footer() {
                   </svg> */}
                 </Link>
               </div>
-              <div className="text-gray-400">
+              {/* <div className="text-gray-400">
                 Lorem ipsum is placeholder text commonly used in the graphic,
                 print, and publishing industries for previewing layouts and
                 visual mockups.
-              </div>
+              </div> */}
             </div>
 
             {/* 2nd, 3rd and 4th blocks */}
@@ -195,7 +195,7 @@ function Footer() {
               </li>
               <li className="ml-4">
                 <Link
-                  to="#"
+                  to="https://www.facebook.com/profile.php?id=61559889846668"
                   className="flex justify-center items-center text-orange-600 bg-gray-800 hover:text-gray-100 hover:bg-orange-600 rounded-full transition duration-150 ease-in-out"
                   aria-label="Facebook"
                 >
@@ -243,9 +243,9 @@ function Footer() {
             </ul>
 
             {/* Copyrights note */}
-            <div className="text-gray-400 text-sm mr-4">
+            {/* <div className="text-gray-400 text-sm mr-4">
               &copy; Cruip.com. All rights reserved.
-            </div>
+            </div> */}
           </div>
         </div>
       </div>

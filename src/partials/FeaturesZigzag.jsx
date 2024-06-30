@@ -17,8 +17,7 @@ function FeaturesZigzag() {
             </div>
             <h1 className="h2 mb-4">One product, unlimited solutions</h1>
             <p className="text-xl text-gray-400">
-              Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
-              officia deserunt mollit laborum — semper quis lectus nulla.
+            CAM'on's powerful AI technology gives you peace of mind every time you leave your car, day or night. No longer worrying about your car being stolen, you can focus on more important things in life. 🛡️🛡️🛡️
             </p>
           </div>
 
@@ -49,11 +48,11 @@ function FeaturesZigzag() {
                     More speed. Less spend
                   </div>
                   <h3 className="h3 mb-3">Keep projects on schedule</h3>
-                  <p className="text-xl text-gray-400 mb-4">
+                  {/* <p className="text-xl text-gray-400 mb-4">
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                     do eiusmod tempor incididunt ut labore et dolore magna
                     aliqua.
-                  </p>
+                  </p> */}
                   <ul className="text-lg text-gray-400 -mb-2">
                     <li className="flex items-center mb-2">
                       <svg
@@ -63,7 +62,8 @@ function FeaturesZigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Duis aute irure dolor in reprehenderit</span>
+                      <span>Continuous Surveillance: It involves non-stop monitoring of an area or system, ensuring that there are no gaps in observation.
+                      </span>
                     </li>
                     <li className="flex items-center mb-2">
                       <svg
@@ -73,7 +73,8 @@ function FeaturesZigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Excepteur sint occaecat</span>
+                      <span>Operates Around the Clock: Monitoring is active 24 hours a day, 7 days a week, providing constant oversight and readiness.
+                      </span>
                     </li>
                     <li className="flex items-center">
                       <svg
@@ -83,7 +84,8 @@ function FeaturesZigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Amet consectetur adipiscing elit</span>
+                      <span>Immediate Response Capability: This ensures that any detected incidents or anomalies can be addressed promptly, enhancing security and safety measures.
+                      </span>
                     </li>
                   </ul>
                 </div>
@@ -116,9 +118,7 @@ function FeaturesZigzag() {
                   </div>
                   <h3 className="h3 mb-3">Keep projects on schedule</h3>
                   <p className="text-xl text-gray-400 mb-4">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua.
+                  The instant alert function of this application helps to immediately notify users when detecting break-ins or thefts, ensuring that users can react and handle situations promptly. Quick and effective.
                   </p>
                   <ul className="text-lg text-gray-400 -mb-2">
                     <li className="flex items-center mb-2">
@@ -129,7 +129,8 @@ function FeaturesZigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Duis aute irure dolor in reprehenderit</span>
+                      <span>Early detection: Automatically detects and notifies users immediately upon detecting intrusion or theft.
+                      </span>
                     </li>
                     <li className="flex items-center mb-2">
                       <svg
@@ -139,7 +140,8 @@ function FeaturesZigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Excepteur sint occaecat</span>
+                      <span>Immediate notification: Sends alerts to users shortly after an incident occurs.
+                      </span>
                     </li>
                     <li className="flex items-center">
                       <svg
@@ -149,7 +151,8 @@ function FeaturesZigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Amet consectetur adipiscing elit</span>
+                      <span>Enhanced responsiveness: Provides users with the opportunity to react promptly and prevent malicious activities."
+                      </span>
                     </li>
                   </ul>
                 </div>
@@ -182,9 +185,7 @@ function FeaturesZigzag() {
                   </div>
                   <h3 className="h3 mb-3">Keep projects on schedule</h3>
                   <p className="text-xl text-gray-400 mb-4">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua.
+                  This application's "secure data storage" ensures that important information is maximally protected, while providing flexibility and convenience in data management and retrieval. It supports users in long-term data storage while ensuring the availability and stability of important information.
                   </p>
                   <ul className="text-lg text-gray-400 -mb-2">
                     <li className="flex items-center mb-2">
@@ -195,7 +196,7 @@ function FeaturesZigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Duis aute irure dolor in reprehenderit</span>
+                      <span>Ensures high security for recorded data.</span>
                     </li>
                     <li className="flex items-center mb-2">
                       <svg
@@ -205,7 +206,8 @@ function FeaturesZigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Excepteur sint occaecat</span>
+                      <span>Easily retrieve and manage data.
+                      </span>
                     </li>
                     <li className="flex items-center">
                       <svg
@@ -215,7 +217,8 @@ function FeaturesZigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Amet consectetur adipiscing elit</span>
+                      <span>Supports long-term and stable storage.
+                      </span>
                     </li>
                   </ul>
                 </div>
@@ -247,9 +250,7 @@ function FeaturesZigzag() {
                   </div>
                   <h3 className="h3 mb-3">Keep projects on schedule</h3>
                   <p className="text-xl text-gray-400 mb-4">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua.
+                  The legal support feature of this application provides credible evidence to assist in legal matters, maintains legally valid reports and records, and facilitates efficient management and resolution of legal disputes.
                   </p>
                   <ul className="text-lg text-gray-400 -mb-2">
                     <li className="flex items-center mb-2">
@@ -260,7 +261,8 @@ function FeaturesZigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Duis aute irure dolor in reprehenderit</span>
+                      <span>Provide valid evidence to assist in legal cases.
+                      </span>
                     </li>
                     <li className="flex items-center mb-2">
                       <svg
@@ -270,7 +272,8 @@ function FeaturesZigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Excepteur sint occaecat</span>
+                      <span>Produce authoritative records and reports.
+                      </span>
                     </li>
                     <li className="flex items-center">
                       <svg
@@ -280,7 +283,8 @@ function FeaturesZigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Amet consectetur adipiscing elit</span>
+                      <span>Support in managing and resolving legal disputes.
+                      </span>
                     </li>
                   </ul>
                 </div>

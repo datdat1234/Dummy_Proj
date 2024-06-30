@@ -11,8 +11,7 @@ function FeaturesBlocks() {
               The majority our customers do not understand their workflows.
             </h2>
             <p className="text-xl text-gray-400">
-              Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
-              officia deserunt mollit anim id est laborum.
+            CAM'on AI is more than just a surveillance camera. With advanced behavioral analysis capabilities, this system can detect and warn immediately when there are any suspicious signs around your vehicle. 🚀🚀🚀
             </p>
           </div>
 
@@ -53,11 +52,9 @@ function FeaturesBlocks() {
                   strokeWidth="2"
                 />
               </svg>
-              <h4 className="h4 mb-2">Instant Features</h4>
+              <h4 className="h4 mb-2">24/247 monitory</h4>
               <p className="text-lg text-gray-400 text-center">
-                Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                cupidatat.
+              24/7 monitoring ensures continuous surveillance and response capability without interruption.
               </p>
             </div>
 
@@ -94,11 +91,9 @@ function FeaturesBlocks() {
                   strokeLinecap="square"
                 />
               </svg>
-              <h4 className="h4 mb-2">Instant Features</h4>
+              <h4 className="h4 mb-2">Instant Alerts</h4>
               <p className="text-lg text-gray-400 text-center">
-                Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                cupidatat.
+              Immediate notifications upon detecting break-ins or theft attempts.
               </p>
             </div>
 
@@ -146,11 +141,9 @@ function FeaturesBlocks() {
                   />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">Instant Features</h4>
+              <h4 className="h4 mb-2">Secure Data Storage</h4>
               <p className="text-lg text-gray-400 text-center">
-                Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                cupidatat.
+              Ensures safe storage of recorded data for easy retrieval.
               </p>
             </div>
 
@@ -191,11 +184,9 @@ function FeaturesBlocks() {
                   />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">Instant Features</h4>
+              <h4 className="h4 mb-2">Legal Support</h4>
               <p className="text-lg text-gray-400 text-center">
-                Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                cupidatat.
+              Provides valid evidence with images and videos to assist in legal matters.
               </p>
             </div>
 
@@ -233,16 +224,14 @@ function FeaturesBlocks() {
                   />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">Instant Features</h4>
+              <h4 className="h4 mb-2 text-center">Alarm Activation on Theft Behavior</h4>
               <p className="text-lg text-gray-400 text-center">
-                Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                cupidatat.
+              Triggers audio or visual alerts to deter and notify users of theft activities.
               </p>
             </div>
 
             {/* 6th item */}
-            <div
+            {/* <div
               className="relative flex flex-col items-center"
               data-aos="fade-up"
               data-aos-delay="500"
@@ -288,7 +277,7 @@ function FeaturesBlocks() {
                 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
                 cupidatat.
               </p>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
