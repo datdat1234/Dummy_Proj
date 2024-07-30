@@ -45,20 +45,17 @@ function Testimonials() {
                 </div>
               </div>
               <blockquote className="text-lg text-gray-400 grow">
-                — Open PRO lets me quickly get the insights I care about so that
-                I can focus on my productive work. I've had Open PRO for about
-                24 hours now and I honestly don't know how I functioned without
-                it before.
+                — App sử dụng khá mượt, tuy nhiên vẫn bị lag một số chỗ. Rating 5 sao để cố gắng hơn.
               </blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
-                <cite className="text-gray-200 not-italic">Anastasia Dan</cite>{' '}
+                <cite className="text-gray-200 not-italic">Nguyễn Diễm Quỳnh - Q9 </cite>{' '}
                 -{' '}
-                <a
+                {/* <a
                   className="text-orange-600 hover:text-gray-200 transition duration-150 ease-in-out"
                   href="#0"
                 >
                   UX Board
-                </a>
+                </a> */}
               </div>
             </div>
 
@@ -87,20 +84,17 @@ function Testimonials() {
                 </div>
               </div>
               <blockquote className="text-lg text-gray-400 grow">
-                — Open PRO lets me quickly get the insights I care about so that
-                I can focus on my productive work. I've had Open PRO for about
-                24 hours now and I honestly don't know how I functioned without
-                it before.
+                — Có bị văng app 1 vài lần, tuy nhiên đã được hỗ trợ ngay khi nhắn tin admin. Giá thành tương đối rẻ so với mặt bằng chung.
               </blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
-                <cite className="text-gray-200 not-italic">Anastasia Dan</cite>{' '}
+                <cite className="text-gray-200 not-italic">Trần Tiểu Linh - Thủ Đức </cite>{' '}
                 -{' '}
-                <a
+                {/* <a
                   className="text-orange-600 hover:text-gray-200 transition duration-150 ease-in-out"
                   href="#0"
                 >
                   UX Board
-                </a>
+                </a> */}
               </div>
             </div>
 
@@ -129,20 +123,17 @@ function Testimonials() {
                 </div>
               </div>
               <blockquote className="text-lg text-gray-400 grow">
-                — Open PRO lets me quickly get the insights I care about so that
-                I can focus on my productive work. I've had Open PRO for about
-                24 hours now and I honestly don't know how I functioned without
-                it before.
+                — Tôi khá hài lòng với chức năng của app khi tích hợp vào camera, nó đã thật sự hoạt động khi hôm trước có người lỡ dắt chiếc xe của tôi ra ngoài :vvv. Mong đội ngũ admin phát triển thêm.
               </blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
-                <cite className="text-gray-200 not-italic">Anastasia Dan</cite>{' '}
+                <cite className="text-gray-200 not-italic">Nguyễn Thành Chính - Q9 </cite>{' '}
                 -{' '}
-                <a
+                {/* <a
                   className="text-orange-600 hover:text-gray-200 transition duration-150 ease-in-out"
                   href="#0"
                 >
                   UX Board
-                </a>
+                </a> */}
               </div>
             </div>
           </div>
